@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Developing a Simple Webserverz
 name:Abinaya.A
 ref:23002776
@@ -27,7 +28,7 @@ Serving the HTML pages.
 
 Testing the webserver
 # PROGRAM:
-Type your code here
+
 # OUTPUT:
 
 # RESULT:
